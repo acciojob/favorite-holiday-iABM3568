@@ -1,1 +1,60 @@
 /*  your css code here. If applicable */
+body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #1565c0;
+            text-align: center;
+            font-size: 42px;
+            margin-bottom: 0;
+        }
+
+        p {
+            color: #424242;
+            font-size: 18px;
+            text-align: justify;
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #1976d2;
+            font-size: 28px;
+            margin-top: 30px;
+            border-bottom: 3px solid #64b5f6;
+            padding-bottom: 10px;
+        }
+
+        ol, ul {
+            font-size: 17px;
+            color: #424242;
+            margin: 20px 0;
+            padding-left: 30px;
+        }
+
+        li {
+            margin-bottom: 12px;
+            line-height: 1.8;
+        }
+
+        strong {
+            color: #0d47a1;
+            font-weight: bold;
+        }
+
+        em {
+            color: #01579b;
+        }
+
